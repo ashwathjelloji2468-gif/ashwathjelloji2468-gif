@@ -1,5 +1,8 @@
+<h1 align="center">Ashwath Jelloji</h1>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; SaaS &amp; Fintech Systems</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Ashwath%20Jelloji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20Fintech%20Systems&descAlignY=58&descSize=18" alt="header banner"/>
+  <img src="https://img.shields.io/badge/-2C5364?style=flat-square&labelColor=0F2027" width="80" height="4"/>
 </p>
 
 <p align="center">
@@ -221,5 +224,5 @@ State Board XII: 92.6% &nbsp;|&nbsp; State Board X (Telangana): 10/10 CGPA (100%
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=150&section=footer" />
+  <img src="https://img.shields.io/badge/-2C5364?style=flat-square&labelColor=0F2027" width="80" height="4"/>
 </p>
